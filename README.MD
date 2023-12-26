@@ -8,5 +8,7 @@ Vc pode escrever textos ou URL's, por exemplo, dentro da caixa de input e clicar
 
 📱
 
+[página disponível no Githubpages para testes](https://andre-coder365.github.io/QR-Code_Generator/)
+
 ![Tela inicial do Gerador de QR Code](tela-qr-code-01.png)
 
